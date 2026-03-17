@@ -26,9 +26,8 @@ plt.axvline(0, color="black")
 
 plt.show()
 
-# plotte den deriverte
+# plotte den deriverte = 0
 plt.plot(x, g(x))
-
 plt.scatter(x_topp, 0)
 
 plt.axhline(0, color="black")
